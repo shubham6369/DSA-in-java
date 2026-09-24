@@ -26,3 +26,11 @@ public class QueueExample {
     
 
  }
+
+
+
+  void enqueue(int value) {
+    if (size == capacity ) {
+        
+    }
+  }
